@@ -1,0 +1,57 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  align-items: center;
+}
+
+.button-class {
+  margin: 5px;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 0;
+  cursor: pointer;
+}
+
+.face {
+  background-color: #1877f2;
+  border: 3px solid #1877f2;
+  border-radius: 10px;
+}
+
+.ig {
+  background-color: #c8379e;
+  border: 3px solid #c8379e;
+  border-radius: 10px;
+}
+
+.tik {
+  background-color: #25f2e9;
+  border: 3px solid #25f2e9;
+  border-radius: 10px;
+}
+
+.wp {
+  background-color: #1bd741;
+  border: 3px solid #1bd741;
+  border-radius: 10px;
+}
+
+.images img {
+  width: 40px;
+  margin: 30px;
+}
+
+.images2 img {
+  width: 200px;
+  height: 90px;
+  margin:5px;
+}
+
+.info-footer {
+  display: flex;
+  gap: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+}
